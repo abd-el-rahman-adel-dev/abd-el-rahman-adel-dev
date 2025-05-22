@@ -16,7 +16,7 @@
 ### 📌 Featured Projects
 - [🔬 Vital Signs Monitor with Arduino](#) – Using MAX30102 & DHT11
 - [📦 Python for Kids Course](#) – Fun interactive lessons
-- [🖥️ Portfolio Website](#) – Coming soon!
+- [🖥️ Portfolio Website](#https://abdo-ad3l.github.io/My-Portfolio/) – Coming soon!
 
 ---
 
