@@ -37,7 +37,7 @@
 
 🌟 I'm a passionate Front-End Web Developer with a strong background in Vue.js and modern web technologies. I combine creativity with code to build responsive, user-friendly applications. My projects reflect a deep interest in solving real-world problems with clean, maintainable solutions.
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="450" height="250" />
 
 - 🔭 Currently working on: Interactive front-end tools & Arduino-based health monitoring systems
 - 🌱 Learning: Advanced Vue patterns, testing, and full-stack basics
