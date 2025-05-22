@@ -45,7 +45,6 @@
 - 🌐 Portfolio: [abdo-ad3l.github.io/My-Portfolio](https://abdo-ad3l.github.io/My-Portfolio)
 - 🧠 Fun fact: I teach Python to kids and love blending hardware with code!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdo-Ad3l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 ---
 
