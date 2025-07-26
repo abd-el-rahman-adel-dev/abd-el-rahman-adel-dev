@@ -44,7 +44,7 @@
 - 🤝 Open to freelance projects & internships
 - 💬 Ask me about: Vue.js, REST APIs, Git/GitHub, Python basics
 - 📫 How to reach me: badl98970@gmail.com | [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
-- 🌐 Portfolio: [abdo-ad3l.github.io/My-Portfolio](https://abd-el-rahman-adel-dev.github.io/My-Portfolio)
+- 🌐 Portfolio: [My-Portfolio](https://abd-el-rahman-adel-dev.github.io/My-Portfolio)
 - 🧠 Fun fact: I teach Python to kids and love blending hardware with code!
 
 
