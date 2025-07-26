@@ -44,7 +44,7 @@
 - 🤝 Open to freelance projects & internships
 - 💬 Ask me about: Vue.js, REST APIs, Git/GitHub, Python basics
 - 📫 How to reach me: badl98970@gmail.com | [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
-- 🌐 Portfolio: [abdo-ad3l.github.io/My-Portfolio](https://abdo-ad3l.github.io/My-Portfolio)
+- 🌐 Portfolio: [abdo-ad3l.github.io/My-Portfolio](https://abd-el-rahman-adel-dev.github.io/My-Portfolio)
 - 🧠 Fun fact: I teach Python to kids and love blending hardware with code!
 
 
@@ -97,8 +97,8 @@ C++, C#, Data Structures, Algorithms
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdo-Ad3l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo-Ad3l&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abd-el-rahman-adel-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd-el-rahman-adel-dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ C++, C#, Data Structures, Algorithms
   <a href="https://www.linkedin.com/in/abdelrahman-adel-webdev">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://github.com/Abdo-Ad3l">
+  <a href="https://github.com/abd-el-rahman-adel-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
   </a>
   <a href="mailto:badl98970@gmail.com">
